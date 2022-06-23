@@ -7,13 +7,13 @@ In this challenge I had to recreate stats preview card using only HTML and CSS, 
 
 ### Screenshots
 ------------
-<center> ![](./images/screenshot-desktop-ver.png) </center>
-<center> ![](./images/screenshot-mobile-ver.png)  </center>
+![](./images/screenshot-desktop-ver.png)
+![](./images/screenshot-mobile-ver.png)
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-5jlw_vkJlm)
+- Live Site URL: [GitHub Pages](https://alepedrero.github.io/statspreviewcard/)
 
 ## My process
 To be able to complete this challenge, I had to write the essential mark up on HTML, and proceed to do the neccessary styles by using Bootstrap and CSS.
